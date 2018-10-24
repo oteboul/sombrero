@@ -1,0 +1,6 @@
+intervaltree==2.1.0
+lxml==3.6.4
+matplotlib==2.2.2
+numpy==1.14.0
+PyYAML==3.11
+scipy==0.19.1

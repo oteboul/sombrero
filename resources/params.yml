@@ -1,0 +1,29 @@
+heaps:
+  power: 0.55
+  min_volume: 12
+  sigmoid:
+    half: 20
+    slope: 0.5
+    max: 1.0
+    min: 0.01
+    decreasing: true
+
+numeric:
+  max: 1.0
+  min: 0.01
+  half: 0.15
+  slope: 30
+  decreasing: true
+
+html:
+  title: 1.5
+  h1: 1.5
+
+content:
+  resampling: 200
+  min_scale: 1
+  max_profile_volume: 200
+  smooth_factor: 2
+  epsilon: 0.01
+  concavity_threshold: 0.1
+  reading_speed: 100.0
